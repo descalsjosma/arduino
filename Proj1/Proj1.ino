@@ -23,7 +23,7 @@ void setup() {
   
   // put your setup code here, to run once:
   Serial.begin(115200);
-  Serial.print("HOLA MUNDO. Version 1-1");
+  Serial.print("HOLA MUNDO. Version 1-1 Copal");
 
   // Inicializar el LCD
   lcd.init();
